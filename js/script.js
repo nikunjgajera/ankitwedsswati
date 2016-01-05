@@ -120,7 +120,7 @@
 		
 		/*CountDown*/
 		$('.married_coundown').countdown({
-			date: '01/22/2016 00:00:00',
+			date: '02/22/2016 00:00:00',
 			offset: -8,
 			day: 'Day',
 			days: 'Days'
