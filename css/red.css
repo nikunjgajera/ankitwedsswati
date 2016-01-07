@@ -12,14 +12,30 @@ h2:after {
 	background: url(../images/red/bullet.png);
 	background-size: cover;
 }
-.im_arrows:before {
+.im1 .im_arrows {
+	background: url(../images/red/fl1.png);
+	width: 470px;
+	height: 390px;
+	position: absolute;
+	z-index: -1;
+	margin: -51px 0 0 -94px
+}
+.im2 .im_arrows {
+	background: url(../images/red/fl2.png);
+	width: 472px;
+	height: 350px;
+	position: absolute;
+	z-index: -1;
+	margin: -46px 0 0 -67px
+}
+/*.im_arrows:before {
 	background: url(../images/red/im_arrow_end.png);
 	background-size: cover;
 }
 .im_arrows:after {
 	background: url(../images/red/im_arrow_start.png);
 	background-size: cover;
-}
+}*/
 
 .btn {
 	color:#e93b38!important;
